@@ -1,0 +1,900 @@
+{
+    "frames": {
+        "banana_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_2": {
+            "frame": {
+                "x": 0,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_3": {
+            "frame": {
+                "x": 265,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_4": {
+            "frame": {
+                "x": 265,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_5": {
+            "frame": {
+                "x": 0,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_6": {
+            "frame": {
+                "x": 265,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_7": {
+            "frame": {
+                "x": 530,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_8": {
+            "frame": {
+                "x": 530,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_9": {
+            "frame": {
+                "x": 530,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_10": {
+            "frame": {
+                "x": 0,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_11": {
+            "frame": {
+                "x": 265,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_12": {
+            "frame": {
+                "x": 530,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_13": {
+            "frame": {
+                "x": 795,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_14": {
+            "frame": {
+                "x": 795,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_15": {
+            "frame": {
+                "x": 795,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_16": {
+            "frame": {
+                "x": 795,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_17": {
+            "frame": {
+                "x": 0,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_18": {
+            "frame": {
+                "x": 265,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_19": {
+            "frame": {
+                "x": 530,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_20": {
+            "frame": {
+                "x": 795,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_21": {
+            "frame": {
+                "x": 1060,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_22": {
+            "frame": {
+                "x": 1060,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_23": {
+            "frame": {
+                "x": 1060,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_24": {
+            "frame": {
+                "x": 1060,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_25": {
+            "frame": {
+                "x": 1060,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_26": {
+            "frame": {
+                "x": 0,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_27": {
+            "frame": {
+                "x": 265,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_28": {
+            "frame": {
+                "x": 530,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_29": {
+            "frame": {
+                "x": 795,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_30": {
+            "frame": {
+                "x": 1060,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_31": {
+            "frame": {
+                "x": 1325,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_32": {
+            "frame": {
+                "x": 1325,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_33": {
+            "frame": {
+                "x": 1325,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_34": {
+            "frame": {
+                "x": 1325,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_35": {
+            "frame": {
+                "x": 1325,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_36": {
+            "frame": {
+                "x": 1325,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_37": {
+            "frame": {
+                "x": 0,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_38": {
+            "frame": {
+                "x": 265,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_39": {
+            "frame": {
+                "x": 530,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_40": {
+            "frame": {
+                "x": 795,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_41": {
+            "frame": {
+                "x": 1060,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_42": {
+            "frame": {
+                "x": 1325,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_43": {
+            "frame": {
+                "x": 1590,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "banana_44": {
+            "frame": {
+                "x": 1590,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        }
+    },
+
+    "animations": {
+        "move": ["banana_1", "banana_2", "banana_3","banana_4", "banana_5", "banana_6" ,"banana_7", "banana_8", "banana_9","banana_10", "banana_11", "banana_12","banana_13", "banana_14", "banana_15","banana_16", "banana_17", "banana_18","banana_19", "banana_20", "banana_21", "banana_22", "banana_23", "banana_24", "banana_25", "banana_26", "banana_27","banana_28","banana_29","banana_30","banana_31","banana_32","banana_33","banana_34","banana_35","banana_36", "banana_37","banana_38", "banana_39","banana_40","banana_41","banana_42","banana_43","banana_44"]
+    
+    
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "banana.png",
+        "size": {
+            "w": 1854,
+            "h": 1854
+        },
+        "scale": 1
+    }
+}

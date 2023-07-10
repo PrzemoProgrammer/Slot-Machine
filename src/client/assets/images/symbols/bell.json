@@ -1,0 +1,944 @@
+{
+    "frames": {
+        "11_bell_00000": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00001": {
+            "frame": {
+                "x": 0,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00002": {
+            "frame": {
+                "x": 265,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00003": {
+            "frame": {
+                "x": 265,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00004": {
+            "frame": {
+                "x": 0,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00005": {
+            "frame": {
+                "x": 265,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00006": {
+            "frame": {
+                "x": 530,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00007": {
+            "frame": {
+                "x": 530,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00008": {
+            "frame": {
+                "x": 530,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00009": {
+            "frame": {
+                "x": 0,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00010": {
+            "frame": {
+                "x": 265,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00011": {
+            "frame": {
+                "x": 530,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00012": {
+            "frame": {
+                "x": 795,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00013": {
+            "frame": {
+                "x": 795,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00014": {
+            "frame": {
+                "x": 795,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00015": {
+            "frame": {
+                "x": 795,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00016": {
+            "frame": {
+                "x": 0,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00017": {
+            "frame": {
+                "x": 265,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00018": {
+            "frame": {
+                "x": 530,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00019": {
+            "frame": {
+                "x": 795,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00020": {
+            "frame": {
+                "x": 1060,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00021": {
+            "frame": {
+                "x": 1060,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00022": {
+            "frame": {
+                "x": 1060,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00023": {
+            "frame": {
+                "x": 1060,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00024": {
+            "frame": {
+                "x": 1060,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00025": {
+            "frame": {
+                "x": 0,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00026": {
+            "frame": {
+                "x": 265,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00027": {
+            "frame": {
+                "x": 530,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00028": {
+            "frame": {
+                "x": 795,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00029": {
+            "frame": {
+                "x": 1060,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00030": {
+            "frame": {
+                "x": 1325,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00031": {
+            "frame": {
+                "x": 1325,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00032": {
+            "frame": {
+                "x": 1325,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00033": {
+            "frame": {
+                "x": 1325,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00034": {
+            "frame": {
+                "x": 1325,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00035": {
+            "frame": {
+                "x": 1325,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00036": {
+            "frame": {
+                "x": 0,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00037": {
+            "frame": {
+                "x": 265,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00038": {
+            "frame": {
+                "x": 530,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00039": {
+            "frame": {
+                "x": 795,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00040": {
+            "frame": {
+                "x": 1060,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00041": {
+            "frame": {
+                "x": 1325,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00042": {
+            "frame": {
+                "x": 1590,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "11_bell_00043": {
+            "frame": {
+                "x": 1590,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        }
+    },
+    "animations": {
+    
+        "move": [ 
+            "11_bell_00000",
+            "11_bell_00001",
+            "11_bell_00002",
+            "11_bell_00004",
+            "11_bell_00005",
+            "11_bell_00006",
+            "11_bell_00007",
+           "11_bell_00008",
+            "11_bell_00009",
+             "11_bell_00010",
+            "11_bell_00011",
+            "11_bell_00012",
+            "11_bell_00013",
+            "11_bell_00014",
+           "11_bell_00015",
+           "11_bell_00016",
+            "11_bell_00017",
+            "11_bell_00018",
+            "11_bell_00019",
+            "11_bell_00020",
+           "11_bell_00021",
+            "11_bell_00022",
+             "11_bell_00023",
+           "11_bell_00024",
+            "11_bell_00025",
+            "11_bell_00026",
+            "11_bell_00026",
+        "11_bell_00027",
+          "11_bell_00028",
+         "11_bell_00029",
+         "11_bell_00030",
+         "11_bell_00031",
+         "11_bell_00032",
+          "11_bell_00033",
+         "11_bell_00034",
+           "11_bell_00035",
+         "11_bell_00036",
+        "11_bell_00037",
+          "11_bell_00038",
+         "11_bell_00039",
+         "11_bell_00040",
+          "11_bell_00041",
+         "11_bell_00042",
+         "11_bell_00043"]
+    
+    
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "bell.png",
+        "size": {
+            "w": 1854,
+            "h": 1854
+        },
+        "scale": 1
+    }
+}

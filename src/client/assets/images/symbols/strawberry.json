@@ -1,0 +1,943 @@
+{
+    "frames": {
+        "10_strawberry_00000": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00001": {
+            "frame": {
+                "x": 0,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00002": {
+            "frame": {
+                "x": 265,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00003": {
+            "frame": {
+                "x": 265,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00004": {
+            "frame": {
+                "x": 0,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00005": {
+            "frame": {
+                "x": 265,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00006": {
+            "frame": {
+                "x": 530,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00007": {
+            "frame": {
+                "x": 530,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00008": {
+            "frame": {
+                "x": 530,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00009": {
+            "frame": {
+                "x": 0,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00010": {
+            "frame": {
+                "x": 265,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00011": {
+            "frame": {
+                "x": 530,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00012": {
+            "frame": {
+                "x": 795,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00013": {
+            "frame": {
+                "x": 795,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00014": {
+            "frame": {
+                "x": 795,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00015": {
+            "frame": {
+                "x": 795,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00016": {
+            "frame": {
+                "x": 0,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00017": {
+            "frame": {
+                "x": 265,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00018": {
+            "frame": {
+                "x": 530,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00019": {
+            "frame": {
+                "x": 795,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00020": {
+            "frame": {
+                "x": 1060,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00021": {
+            "frame": {
+                "x": 1060,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00022": {
+            "frame": {
+                "x": 1060,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00023": {
+            "frame": {
+                "x": 1060,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00024": {
+            "frame": {
+                "x": 1060,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00025": {
+            "frame": {
+                "x": 0,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00026": {
+            "frame": {
+                "x": 265,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00027": {
+            "frame": {
+                "x": 530,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00028": {
+            "frame": {
+                "x": 795,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00029": {
+            "frame": {
+                "x": 1060,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00030": {
+            "frame": {
+                "x": 1325,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00031": {
+            "frame": {
+                "x": 1325,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00032": {
+            "frame": {
+                "x": 1325,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00033": {
+            "frame": {
+                "x": 1325,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00034": {
+            "frame": {
+                "x": 1325,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00035": {
+            "frame": {
+                "x": 1325,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00036": {
+            "frame": {
+                "x": 0,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00037": {
+            "frame": {
+                "x": 265,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00038": {
+            "frame": {
+                "x": 530,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00039": {
+            "frame": {
+                "x": 795,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00040": {
+            "frame": {
+                "x": 1060,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00041": {
+            "frame": {
+                "x": 1325,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00042": {
+            "frame": {
+                "x": 1590,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "10_strawberry_00043": {
+            "frame": {
+                "x": 1590,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        }
+    },
+
+    "animations": {
+    
+        "move": [ 
+            "10_strawberry_00000",
+            "10_strawberry_00001",
+            "10_strawberry_00002",
+            "10_strawberry_00004",
+            "10_strawberry_00005",
+            "10_strawberry_00006",
+            "10_strawberry_00007",
+           "10_strawberry_00008",
+            "10_strawberry_00009",
+             "10_strawberry_00010",
+            "10_strawberry_00011",
+            "10_strawberry_00012",
+            "10_strawberry_00013",
+            "10_strawberry_00014",
+           "10_strawberry_00015",
+           "10_strawberry_00016",
+            "10_strawberry_00017",
+            "10_strawberry_00018",
+            "10_strawberry_00019",
+            "10_strawberry_00020",
+           "10_strawberry_00021",
+            "10_strawberry_00022",
+             "10_strawberry_00023",
+           "10_strawberry_00024",
+            "10_strawberry_00025",
+            "10_strawberry_00026",
+            "10_strawberry_00026",
+        "10_strawberry_00027",
+          "10_strawberry_00028",
+         "10_strawberry_00029",
+         "10_strawberry_00030",
+         "10_strawberry_00031",
+         "10_strawberry_00032",
+          "10_strawberry_00033",
+         "10_strawberry_00034",
+           "10_strawberry_00035",
+         "10_strawberry_00036",
+        "10_strawberry_00037",
+          "10_strawberry_00038",
+         "10_strawberry_00039",
+         "10_strawberry_00040",
+          "10_strawberry_00041",
+         "10_strawberry_00042",
+         "10_strawberry_00043"]
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "strawberry.png",
+        "size": {
+            "w": 1854,
+            "h": 1854
+        },
+        "scale": 1
+    }
+}

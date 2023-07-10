@@ -1,0 +1,944 @@
+{
+    "frames": {
+        "7_watermelon_00000": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00001": {
+            "frame": {
+                "x": 0,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00002": {
+            "frame": {
+                "x": 265,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00003": {
+            "frame": {
+                "x": 265,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00004": {
+            "frame": {
+                "x": 0,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00005": {
+            "frame": {
+                "x": 265,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00006": {
+            "frame": {
+                "x": 530,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00007": {
+            "frame": {
+                "x": 530,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00008": {
+            "frame": {
+                "x": 530,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00009": {
+            "frame": {
+                "x": 0,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00010": {
+            "frame": {
+                "x": 265,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00011": {
+            "frame": {
+                "x": 530,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00012": {
+            "frame": {
+                "x": 795,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00013": {
+            "frame": {
+                "x": 795,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00014": {
+            "frame": {
+                "x": 795,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00015": {
+            "frame": {
+                "x": 795,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00016": {
+            "frame": {
+                "x": 0,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00017": {
+            "frame": {
+                "x": 265,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00018": {
+            "frame": {
+                "x": 530,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00019": {
+            "frame": {
+                "x": 795,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00020": {
+            "frame": {
+                "x": 1060,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00021": {
+            "frame": {
+                "x": 1060,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00022": {
+            "frame": {
+                "x": 1060,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00023": {
+            "frame": {
+                "x": 1060,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00024": {
+            "frame": {
+                "x": 1060,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00025": {
+            "frame": {
+                "x": 0,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00026": {
+            "frame": {
+                "x": 265,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00027": {
+            "frame": {
+                "x": 530,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00028": {
+            "frame": {
+                "x": 795,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00029": {
+            "frame": {
+                "x": 1060,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00030": {
+            "frame": {
+                "x": 1325,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00031": {
+            "frame": {
+                "x": 1325,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00032": {
+            "frame": {
+                "x": 1325,
+                "y": 530,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00033": {
+            "frame": {
+                "x": 1325,
+                "y": 795,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00034": {
+            "frame": {
+                "x": 1325,
+                "y": 1060,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00035": {
+            "frame": {
+                "x": 1325,
+                "y": 1325,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00036": {
+            "frame": {
+                "x": 0,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00037": {
+            "frame": {
+                "x": 265,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00038": {
+            "frame": {
+                "x": 530,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00039": {
+            "frame": {
+                "x": 795,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00040": {
+            "frame": {
+                "x": 1060,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00041": {
+            "frame": {
+                "x": 1325,
+                "y": 1590,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00042": {
+            "frame": {
+                "x": 1590,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        },
+        "7_watermelon_00043": {
+            "frame": {
+                "x": 1590,
+                "y": 265,
+                "w": 264,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 264
+            }
+        }
+    },
+    "animations": {
+    
+        "move": [ 
+            "7_watermelon_00000",
+            "7_watermelon_00001",
+            "7_watermelon_00002",
+            "7_watermelon_00004",
+            "7_watermelon_00005",
+            "7_watermelon_00006",
+            "7_watermelon_00007",
+           "7_watermelon_00007",
+            "7_watermelon_00009",
+             "7_watermelon_00010",
+            "7_watermelon_00011",
+            "7_watermelon_00012",
+            "7_watermelon_00013",
+            "7_watermelon_00014",
+           "7_watermelon_00015",
+           "7_watermelon_00016",
+            "7_watermelon_00017",
+            "7_watermelon_00017",
+            "7_watermelon_00019",
+            "7_watermelon_00020",
+           "7_watermelon_00021",
+            "7_watermelon_00022",
+             "7_watermelon_00023",
+           "7_watermelon_00024",
+            "7_watermelon_00025",
+            "7_watermelon_00026",
+            "7_watermelon_00026",
+        "7_watermelon_00027",
+          "7_watermelon_00027",
+         "7_watermelon_00029",
+         "7_watermelon_00030",
+         "7_watermelon_00031",
+         "7_watermelon_00032",
+          "7_watermelon_00033",
+         "7_watermelon_00034",
+           "7_watermelon_00035",
+         "7_watermelon_00036",
+        "7_watermelon_00037",
+          "7_watermelon_00037",
+         "7_watermelon_00039",
+         "7_watermelon_00040",
+          "7_watermelon_00041",
+         "7_watermelon_00042",
+         "7_watermelon_00043"]
+    
+    
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "watermelon.png",
+        "size": {
+            "w": 1854,
+            "h": 1854
+        },
+        "scale": 1
+    }
+}
