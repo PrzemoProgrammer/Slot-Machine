@@ -1,3 +1,5 @@
+<img align="right" alt="coding" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
 # Gambling slot machine game
 * Created in 𝗣𝗶𝘅𝗶.𝗷𝘀,
 * Registration and login, 𝗷𝘄𝘁-𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
