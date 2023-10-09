@@ -2,7 +2,7 @@ const jwt = require("jsonwebtoken");
 
 class LoginToken {
   constructor() {
-    this.secretKey = "jajko";
+    this.secretKey = env.SECRET;
   }
 
   createToken(data) {
