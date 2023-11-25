@@ -8,6 +8,7 @@
 * Server enviroment 𝗡𝗼𝗱𝗲.𝗷𝘀
 * 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 library used,
 * 𝗠𝗼𝗻𝗴𝗼𝗱𝗯 database used
+* 𝐇𝐨𝐰𝐥𝐞𝐫 for audio,
 
 𝐕𝐢𝐝𝐞𝐨
 
