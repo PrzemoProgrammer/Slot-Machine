@@ -9,6 +9,7 @@
 * 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 library used,
 * 𝗠𝗼𝗻𝗴𝗼𝗱𝗯 database used
 * 𝐇𝐨𝐰𝐥𝐞𝐫 for audio,
+* 𝗚𝘀𝗮𝗽 for animations
 
 𝐕𝐢𝐝𝐞𝐨
 
