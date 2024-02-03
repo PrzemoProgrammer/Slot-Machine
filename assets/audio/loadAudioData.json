@@ -1,0 +1,58 @@
+{
+  "background": {
+    "path": "music",
+    "key": "background",
+    "settings":{
+      "loop": true,
+      "volume": 0.5
+    }
+  },
+  "reelRotation": {
+    "path": "reel",
+    "key": "reel_rotation",
+    "settings":{
+      "loop": false,
+      "volume": 1
+    }
+  },
+  "reelStop": {
+    "path": "reel",
+    "key": "reel_stop",
+    "settings":{
+      "loop": false,
+      "volume": 1
+    }
+  },
+  "buttonClick": {
+    "path": "other",
+    "key": "button_click",
+    "settings":{
+      "loop": false,
+      "volume": 1
+    }
+  },
+  "fireFrame": {
+    "path": "other",
+    "key": "fire_frame",
+    "settings":{
+      "loop": false,
+      "volume": 1
+    }
+  },
+  "creditsCount": {
+    "path": "other",
+    "key": "credits_count",
+    "settings":{
+      "loop": false,
+      "volume": 0.6
+    }
+  },
+  "lineMatch": {
+    "path": "other",
+    "key": "line_match",
+    "settings":{
+      "loop": false,
+      "volume": 0.6
+    }
+  }
+}

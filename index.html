@@ -1,9 +1,59 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Pixi.js with Webpack</title>
-  </head>
-  <body>
+    <title>Muran Slots</title>
+
+    <meta
+      id="viewport"
+      name="viewport"
+      content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no, viewport-fit=cover"
+      />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #1f1e1e;
+      }
+		#logo {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -100%);
+        width: auto;
+        height: auto;
+        max-width: 30%;
+        max-height: 30%;
+        object-fit: cover;
+      }
+      #loadingIcon {
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, 0%);
+        width: auto;
+        height: auto;
+        max-width: 20%;
+        max-height: 20%;
+        object-fit: cover;
+      }
+
+    </style>
+
+<body>
+  <div id="loading_page">
+    <img
+    id="loadingIcon"
+    src="https://i.gifer.com/XOsX.webp"
+    alt="Loading_icon"
+    />
+    <img
+    id="logo"
+    src="https://i.postimg.cc/76CB9Lsv/loading-logo.png"
+    alt="Loading_icon"
+    />
+  </div>
+  <script defer src="bundle.min.js?c198283bc0dec57376da"></script></head>
   </body>
 </html>
