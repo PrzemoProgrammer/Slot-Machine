@@ -1,0 +1,5 @@
+.vscode
+.cache
+dist
+node_modules
+MainToEdit
