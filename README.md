@@ -17,7 +17,7 @@ https://przemoprogrammer.github.io/Slot-Machine/
 
 𝐕𝐢𝐝𝐞𝐨
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1-y1geAYyRc.jpg)](https://www.youtube.com/watch?v=1-y1geAYyRc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1-y1geAYyRc/0.jpg)](https://www.youtube.com/watch?v=Gv7AayuDGc0)
 
 
 # CODE STRUCTURE
