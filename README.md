@@ -1,7 +1,7 @@
 <img align="right" alt="coding" src="https://media3.giphy.com/media/EahYBxGgJHLZ6/200w.gif?cid=6c09b952y26fk37rk4c5er8mewuzxw991fui6luu40ygeb82&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 # Live Demo:
-
+https://przemoprogrammer.github.io/Slot-Machine/
 
 # Slot Machine Game
 * Created in 𝗣𝗶𝘅𝗶.𝗷𝘀,
