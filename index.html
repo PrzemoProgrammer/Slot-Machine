@@ -8,14 +8,30 @@
       content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no, viewport-fit=cover"
       />
     <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="icon" href="https://svgur.com/i/12fw.svg" type="image/x-icon">
     <style>
       html,
       body {
         margin: 0;
         padding: 0;
+        /* height: 100%; */
         overflow: hidden;
         background: #1f1e1e;
+        /* display: flex;
+            justify-content: center;
+            align-items: center; */
       }
+
+      /* #pixi-content {
+			margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background: #1f1e1e;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+		} */
 		#logo {
         position: absolute;
         top: 50%;
@@ -40,20 +56,26 @@
       }
 
     </style>
+  <script defer src="bundle.js?f1445e36e20216e00682"></script></head>
 
-<body>
-  <div id="loading_page">
-    <img
-    id="loadingIcon"
-    src="https://i.gifer.com/XOsX.webp"
-    alt="Loading_icon"
-    />
-    <img
-    id="logo"
-    src="https://i.postimg.cc/76CB9Lsv/loading-logo.png"
-    alt="Loading_icon"
-    />
-  </div>
-  <script defer src="bundle.min.js?c198283bc0dec57376da"></script></head>
+  <body>
+    <div id="loading_page">
+      <img
+        id="loadingIcon"
+        src="https://i.gifer.com/XOsX.webp"
+        alt="Loading_icon"
+      />
+      <img
+        id="logo"
+        src="https://i.postimg.cc/76CB9Lsv/loading-logo.png"
+        alt="Loading_icon"
+      />
+    </div>
+    <!-- <img id="myGif" src="/static/assets/images/game/loading_screen/loading_circlee.gif" alt="Animowany obrazek"> -->
+    <!-- <div id="pixi-content">
+		<img id="myGif" src="https://pixijs.com/assets/bunny.png" alt="Animowany obrazek">
+	</div> -->
+    <!-- <script src="bundle.js"></script> -->
+    <!-- <div id="pixi-content"></div> -->
   </body>
 </html>
