@@ -6,18 +6,19 @@ https://przemoprogrammer.github.io/Slot-Machine/
 # Slot Machine Game
 
 -- CLIETN:-------
-* 𝗣𝗶𝘅𝗶.𝗷𝘀,
-* 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁,
-* Registration and login, 𝗷𝘄𝘁-𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
-* 𝐇𝐨𝐰𝐥𝐞𝐫 for audio,
+* 𝗣𝗶𝘅𝗶.𝗷𝘀
+* 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
+* Registration and login, 𝗷𝘄𝘁-𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+* 𝐇𝐨𝐰𝐥𝐞𝐫 for audio
 * 𝗚𝘀𝗮𝗽 for animations
 * Architectural Pattern: 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿
   
 -- SERVER:-------
 * 𝗡𝗼𝗱𝗲.𝗷𝘀
-* 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 library used,
+* 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀
+* 𝗦𝗼𝗰𝗸𝗲𝘁.𝗶𝗼
 * 𝗠𝗼𝗻𝗴𝗼𝗱𝗯 database used
-* 𝗣𝗮𝘆𝗣𝗮𝗹 payment method implemented,
+* 𝗣𝗮𝘆𝗣𝗮𝗹 payment method implemented
 
 
 𝐕𝐢𝐝𝐞𝐨
