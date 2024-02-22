@@ -27,12 +27,10 @@
 
 
 # CODE STRUCTURE
-
 ```
 src
 ├─ abstraction
 │  └─ BaseScene.ts
-├─ Background.ts
 ├─ components
 │  ├─ animatedSprite
 │  │  ├─ AnimatedSprite.ts
@@ -51,6 +49,10 @@ src
 │  │  ├─ Graphics.ts
 │  │  └─ interface
 │  │     └─ IGraphicsConfig.ts
+│  ├─ spineAnimation
+│  │  ├─ interface
+│  │  │  └─ ISpineAnimationConfig.ts
+│  │  └─ SpineAnimation.ts
 │  ├─ sprite
 │  │  ├─ interface
 │  │  │  └─ ISpriteConfig.ts
@@ -93,11 +95,20 @@ src
 │  ├─ machine
 │  │  ├─ config
 │  │  │  ├─ machineConfig.ts
+│  │  │  ├─ symbolDescriptions.ts
 │  │  │  └─ symbolTypes.ts
 │  │  ├─ controller
 │  │  │  ├─ interface
 │  │  │  │  └─ IMachineControllerConfig.ts
 │  │  │  └─ MachineController.ts
+│  │  ├─ describeLabel
+│  │  │  ├─ controller
+│  │  │  │  └─ DescribeLabelController.ts
+│  │  │  ├─ DescribeLabel.ts
+│  │  │  ├─ model
+│  │  │  │  └─ DescribeLabelModel.ts
+│  │  │  └─ view
+│  │  │     └─ DescribeLabelView.ts
 │  │  ├─ Machine.ts
 │  │  ├─ matchFrame
 │  │  │  ├─ controller
@@ -153,14 +164,14 @@ src
 │     └─ GameManager.ts
 ├─ gameSignals
 │  └─ GameSignals.ts
-├─ ImageTest.ts
 ├─ index.ejs
 ├─ index.ts
 ├─ managers
 │  ├─ AppManager.ts
 │  ├─ AudioManager.ts
 │  ├─ ImageManager.ts
-│  └─ SceneManager.ts
+│  ├─ SceneManager.ts
+│  └─ UIManager.ts
 ├─ scenes
 │  ├─ PlayScene.ts
 │  ├─ PreloadScene.ts
@@ -179,48 +190,92 @@ src
 │  ├─ AppStorage.ts
 │  ├─ AudioStorage.ts
 │  ├─ ImageStorage.ts
-│  └─ SceneStorage.ts
+│  ├─ SceneStorage.ts
+│  └─ UIStorage.ts
 ├─ UI
-│  ├─ betLabel
-│  │  ├─ balance
-│  │  │  ├─ Balance.ts
+│  ├─ bottomBar
+│  │  ├─ betLabel
+│  │  │  ├─ betLabel
+│  │  │  │  ├─ BetLabel.ts
+│  │  │  │  ├─ buttonDown
+│  │  │  │  │  ├─ ButtonDown.ts
+│  │  │  │  │  ├─ controller
+│  │  │  │  │  │  └─ ButtonDownController.ts
+│  │  │  │  │  └─ view
+│  │  │  │  │     └─ ButtonDownView.ts
+│  │  │  │  ├─ buttonUp
+│  │  │  │  │  ├─ ButtonUp.ts
+│  │  │  │  │  ├─ controller
+│  │  │  │  │  │  └─ ButtonUpController.ts
+│  │  │  │  │  └─ view
+│  │  │  │  │     └─ ButtonUpView.ts
+│  │  │  │  ├─ content
+│  │  │  │  │  ├─ background
+│  │  │  │  │  │  ├─ Background.ts
+│  │  │  │  │  │  ├─ controller
+│  │  │  │  │  │  │  └─ BackgroundController.ts
+│  │  │  │  │  │  └─ view
+│  │  │  │  │  │     └─ BackgroundView.ts
+│  │  │  │  │  ├─ Content.ts
+│  │  │  │  │  ├─ controller
+│  │  │  │  │  │  └─ ContentController.ts
+│  │  │  │  │  ├─ text
+│  │  │  │  │  │  ├─ balance
+│  │  │  │  │  │  │  ├─ Balance.ts
+│  │  │  │  │  │  │  ├─ controller
+│  │  │  │  │  │  │  │  └─ BalanceController.ts
+│  │  │  │  │  │  │  ├─ model
+│  │  │  │  │  │  │  │  └─ BalanceModel.ts
+│  │  │  │  │  │  │  └─ view
+│  │  │  │  │  │  │     └─ BalanceView.ts
+│  │  │  │  │  │  ├─ controller
+│  │  │  │  │  │  │  └─ TextController.ts
+│  │  │  │  │  │  ├─ Text.ts
+│  │  │  │  │  │  ├─ totalBet
+│  │  │  │  │  │  │  ├─ controller
+│  │  │  │  │  │  │  │  └─ TotalBetController.ts
+│  │  │  │  │  │  │  ├─ model
+│  │  │  │  │  │  │  │  └─ TotalBetModel.ts
+│  │  │  │  │  │  │  ├─ TotalBet.ts
+│  │  │  │  │  │  │  └─ view
+│  │  │  │  │  │  │     └─ TotalBetView.ts
+│  │  │  │  │  │  └─ view
+│  │  │  │  │  │     └─ TextView.ts
+│  │  │  │  │  └─ view
+│  │  │  │  │     └─ ContentView.ts
+│  │  │  │  ├─ controller
+│  │  │  │  │  └─ BetLabelController.ts
+│  │  │  │  └─ view
+│  │  │  │     └─ BetLabelView.ts
+│  │  │  ├─ BetLabelContainer.ts
+│  │  │  ├─ config
 │  │  │  ├─ controller
-│  │  │  │  └─ BalanceController.ts
+│  │  │  │  └─ BetLabelContainerController.ts
 │  │  │  ├─ model
-│  │  │  │  └─ BalanceModel.ts
+│  │  │  │  └─ BetLabelContainerModel.ts
 │  │  │  └─ view
-│  │  │     └─ BalanceView.ts
-│  │  ├─ BetLabel.ts
-│  │  ├─ config
+│  │  │     └─ BetLabelContainerView.ts
+│  │  ├─ BottomBar.ts
 │  │  ├─ controller
-│  │  │  └─ BetLabelController.ts
-│  │  ├─ model
-│  │  │  └─ BetLabelModel.ts
-│  │  ├─ totalBet
+│  │  │  └─ BottomBarController.ts
+│  │  ├─ spinButton
 │  │  │  ├─ controller
-│  │  │  │  └─ TotalBetController.ts
+│  │  │  │  └─ SpinButtonController.ts
+│  │  │  ├─ interface
 │  │  │  ├─ model
-│  │  │  │  └─ TotalBetModel.ts
-│  │  │  ├─ TotalBet.ts
+│  │  │  │  └─ SpinButtonModel.ts
+│  │  │  ├─ SpinButton.ts
 │  │  │  └─ view
-│  │  │     └─ TotalBetView.ts
+│  │  │     └─ SpinButtonView.ts
 │  │  └─ view
-│  │     └─ BetLabelView.ts
-│  └─ spinButton
-│     ├─ config
-│     │  └─ spinButtonConfig.ts
-│     ├─ controller
-│     │  └─ SpinButtonController.ts
-│     ├─ interface
-│     ├─ model
-│     │  └─ SpinButtonModel.ts
-│     ├─ SpinButton.ts
-│     └─ view
-│        └─ SpinButtonView.ts
+│  │     └─ BottomBarView.ts
+│  ├─ config
+│  │  └─ config.ts
+│  └─ manager
+│     └─ GUIManager.ts
 └─ utility
    ├─ math
    │  └─ MathUtils.ts
    └─ screen
       └─ ScreenUtils.ts
-
 ```
