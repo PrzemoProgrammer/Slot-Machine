@@ -27,45 +27,33 @@
 
 
 # CODE STRUCTURE
+
 ```
 src
-├─ abstraction
-│  └─ BaseScene.ts
+├─ App.css
+├─ App.jsx
 ├─ components
-│  ├─ animatedSprite
-│  │  ├─ AnimatedSprite.ts
-│  │  └─ interface
-│  │     └─ IAnimatedSpriteConfig.ts
-│  ├─ atlasSprite
-│  │  ├─ AtlasSprite.ts
-│  │  └─ interface
-│  │     └─ IAtlasSpriteConfig.ts
-│  ├─ button
-│  │  ├─ Button.ts
-│  │  └─ interface
-│  │     └─ IButtonConfig.ts
-│  ├─ Container.ts
-│  ├─ graphics
-│  │  ├─ Graphics.ts
-│  │  └─ interface
-│  │     └─ IGraphicsConfig.ts
-│  ├─ spineAnimation
-│  │  ├─ interface
-│  │  │  └─ ISpineAnimationConfig.ts
-│  │  └─ SpineAnimation.ts
-│  ├─ sprite
-│  │  ├─ interface
-│  │  │  └─ ISpriteConfig.ts
-│  │  └─ Sprite.ts
-│  └─ text
-│     ├─ interface
-│     │  └─ ITextConfig.ts
-│     └─ Text.ts
+│  ├─ closeButton
+│  │  ├─ CloseButton.jsx
+│  │  └─ CSS
+│  │     └─ CloseButton.css
+│  ├─ textureButton
+│  │  ├─ CSS
+│  │  │  └─ TextureButton.css
+│  │  └─ TextureButton.jsx
+│  └─ UISvgButton
+│     ├─ CSS
+│     │  └─ UISvgButton.css
+│     └─ UISvgButton.jsx
+├─ componentsContextRefs
+│  └─ ComponentsContextRefsStorage.js
 ├─ config
 │  ├─ appConfig.ts
-│  ├─ assetsConfig.ts
-│  └─ screenConfig.ts
+│  ├─ assetsConfig.js
+│  └─ screenConfig.js
 ├─ game
+│  ├─ abstraction
+│  │  └─ BaseScene.ts
 │  ├─ background
 │  │  ├─ config
 │  │  │  └─ backgroundConfig.ts
@@ -82,6 +70,36 @@ src
 │  │     ├─ BackgroundView.ts
 │  │     └─ interface
 │  │        └─ IBackgroundViewConfig.ts
+│  ├─ components
+│  │  ├─ animatedSprite
+│  │  │  ├─ AnimatedSprite.ts
+│  │  │  └─ interface
+│  │  │     └─ IAnimatedSpriteConfig.ts
+│  │  ├─ atlasSprite
+│  │  │  ├─ AtlasSprite.ts
+│  │  │  └─ interface
+│  │  │     └─ IAtlasSpriteConfig.ts
+│  │  ├─ button
+│  │  │  ├─ Button.ts
+│  │  │  └─ interface
+│  │  │     └─ IButtonConfig.ts
+│  │  ├─ Container.ts
+│  │  ├─ graphics
+│  │  │  ├─ Graphics.ts
+│  │  │  └─ interface
+│  │  │     └─ IGraphicsConfig.ts
+│  │  ├─ spineAnimation
+│  │  │  ├─ interface
+│  │  │  │  └─ ISpineAnimationConfig.ts
+│  │  │  └─ SpineAnimation.ts
+│  │  ├─ sprite
+│  │  │  ├─ interface
+│  │  │  │  └─ ISpriteConfig.ts
+│  │  │  └─ Sprite.ts
+│  │  └─ text
+│  │     ├─ interface
+│  │     │  └─ ITextConfig.ts
+│  │     └─ Text.ts
 │  ├─ config
 │  │  └─ gameConfig.ts
 │  ├─ creditsCounter
@@ -92,6 +110,99 @@ src
 │  │  │  └─ CreditsCounterModel.ts
 │  │  └─ view
 │  │     └─ CreditsCounterView.ts
+│  ├─ CSS
+│  │  └─ Game.css
+│  ├─ darkScreen
+│  │  ├─ config
+│  │  │  └─ darkScreenConfig.ts
+│  │  ├─ controller
+│  │  │  └─ DarkScreenController.ts
+│  │  ├─ DarkScreen.ts
+│  │  ├─ interface
+│  │  │  └─ IDarkScreenConfig.ts
+│  │  ├─ model
+│  │  │  ├─ DarkScreenModel.ts
+│  │  │  └─ interface
+│  │  │     └─ IDarkScreenlConfig.ts
+│  │  └─ view
+│  │     ├─ DarkScreenView.ts
+│  │     └─ interface
+│  │        └─ IDarkScreenConfig.ts
+│  ├─ game
+│  │  ├─ bet
+│  │  │  ├─ Bet.ts
+│  │  │  └─ interface
+│  │  │     └─ IBetConfig.ts
+│  │  ├─ card
+│  │  │  ├─ Card.ts
+│  │  │  └─ config
+│  │  │     └─ cardAnimsConfig.ts
+│  │  ├─ config
+│  │  │  └─ gameConfig.ts
+│  │  ├─ interface
+│  │  │  ├─ IPlayerGamePositions.ts
+│  │  │  └─ IPlayerPositionsConfig.ts
+│  │  ├─ players
+│  │  │  ├─ interface
+│  │  │  │  └─ IPlayersConfig.ts
+│  │  │  ├─ manager
+│  │  │  │  └─ PlayersManager.ts
+│  │  │  ├─ player
+│  │  │  │  ├─ cards
+│  │  │  │  │  └─ PlayerCards.ts
+│  │  │  │  ├─ config
+│  │  │  │  │  └─ playerConfig.ts
+│  │  │  │  ├─ interface
+│  │  │  │  │  └─ IPlayerConfig.ts
+│  │  │  │  ├─ moneyText
+│  │  │  │  │  └─ MoneyText.ts
+│  │  │  │  ├─ Player.ts
+│  │  │  │  ├─ timer
+│  │  │  │  │  ├─ interface
+│  │  │  │  │  │  └─ ITimerConfig.ts
+│  │  │  │  │  └─ Timer.ts
+│  │  │  │  └─ view
+│  │  │  │     └─ PlayerView.ts
+│  │  │  └─ storage
+│  │  │     ├─ interface
+│  │  │     │  └─ IPlayersDataStorage.ts
+│  │  │     └─ PlayersStorage.ts
+│  │  └─ table
+│  │     ├─ adapter
+│  │     │  └─ TableAdapter.ts
+│  │     ├─ bets
+│  │     │  └─ config
+│  │     │     └─ tableBetsConfig.ts
+│  │     ├─ cards
+│  │     │  ├─ config
+│  │     │  │  └─ tableCardsConfig.ts
+│  │     │  ├─ interface
+│  │     │  │  └─ ITableCardsConfig.ts
+│  │     │  └─ TableCards.ts
+│  │     ├─ config
+│  │     │  └─ tableConfig.ts
+│  │     ├─ interface
+│  │     │  └─ ITableConfig.ts
+│  │     ├─ manager
+│  │     │  └─ TableManager.ts
+│  │     └─ view
+│  │        └─ TableView.ts
+│  ├─ gameLogo
+│  │  ├─ config
+│  │  │  └─ gameLogoConfig.ts
+│  │  ├─ controller
+│  │  │  └─ GameLogoController.ts
+│  │  ├─ GameLogo.ts
+│  │  ├─ interface
+│  │  │  └─ IGameLogoConfig.ts
+│  │  ├─ model
+│  │  │  ├─ GameLogoModel.ts
+│  │  │  └─ interface
+│  │  │     └─ IGameLogoModelConfig.ts
+│  │  └─ view
+│  │     ├─ GameLogoView.ts
+│  │     └─ interface
+│  │        └─ IGameLogoConfig.ts
 │  ├─ machine
 │  │  ├─ config
 │  │  │  ├─ machineConfig.ts
@@ -101,6 +212,14 @@ src
 │  │  │  ├─ interface
 │  │  │  │  └─ IMachineControllerConfig.ts
 │  │  │  └─ MachineController.ts
+│  │  ├─ creditsCounter
+│  │  │  ├─ controller
+│  │  │  │  └─ CreditsCounterController.ts
+│  │  │  ├─ CreditsCounter.ts
+│  │  │  ├─ model
+│  │  │  │  └─ CreditsCounterModel.ts
+│  │  │  └─ view
+│  │  │     └─ CreditsCounterView.ts
 │  │  ├─ describeLabel
 │  │  │  ├─ controller
 │  │  │  │  └─ DescribeLabelController.ts
@@ -126,6 +245,8 @@ src
 │  │  │  │  └─ MatchLineModel.ts
 │  │  │  └─ view
 │  │  │     └─ MatchLineView.ts
+│  │  ├─ model
+│  │  │  └─ MachineModel.ts
 │  │  ├─ reel
 │  │  │  ├─ controller
 │  │  │  │  └─ ReelController.ts
@@ -160,122 +281,123 @@ src
 │  │     ├─ interface
 │  │     │  └─ IMachineViewConfig.ts
 │  │     └─ MachineView.ts
-│  └─ manager
-│     └─ GameManager.ts
+│  ├─ main.js
+│  ├─ manager
+│  │  └─ GameManager.ts
+│  ├─ PixiGame.jsx
+│  ├─ scenes
+│  │  ├─ Game.ts
+│  │  └─ Preload.ts
+│  └─ StartGame.js
 ├─ gameSignals
-│  └─ GameSignals.ts
-├─ index.ejs
-├─ index.ts
+│  └─ GameSignals.js
+├─ index.css
+├─ interfaces
+│  ├─ IAllPlayerJoinedServerData.ts
+│  ├─ ICardData.ts
+│  ├─ IGameResultData.ts
+│  ├─ ILoginScreenConfig.ts
+│  ├─ INextRoundData.ts
+│  ├─ IPlayersBets.ts
+│  ├─ IPlayersCards.ts
+│  ├─ IPlayersMoney.ts
+│  ├─ IPlayerTurnAction.ts
+│  ├─ IPlayerTurnData.ts
+│  ├─ IRegisterScreenConfig.ts
+│  ├─ IServerPlayerData.ts
+│  └─ IUpdatePlayerTurnAction.ts
+├─ main.jsx
 ├─ managers
-│  ├─ AppManager.ts
+│  ├─ AppManager.js
 │  ├─ AudioManager.ts
-│  ├─ ImageManager.ts
-│  ├─ SceneManager.ts
-│  └─ UIManager.ts
-├─ scenes
-│  ├─ PlayScene.ts
-│  ├─ PreloadScene.ts
-│  └─ SocketConnectScene.ts
+│  ├─ ImageManager.js
+│  └─ SceneManager.ts
+├─ pages
+│  ├─ background
+│  │  ├─ Background.jsx
+│  │  └─ CSS
+│  │     └─ Background.css
+│  ├─ CSS
+│  │  └─ Pages.css
+│  ├─ gameInformation
+│  │  ├─ CSS
+│  │  │  └─ GameInformation.css
+│  │  ├─ GameInformation.jsx
+│  │  └─ symbolDescription
+│  │     ├─ CSS
+│  │     │  └─ SymbolDescription.css
+│  │     └─ SymbolDescription.jsx
+│  ├─ loadingGame
+│  │  ├─ CSS
+│  │  │  └─ LoadingGame.css
+│  │  └─ LoadingGame.jsx
+│  ├─ loadingScreen
+│  │  ├─ CSS
+│  │  │  └─ LoadingScreen.css
+│  │  └─ LoadingScreen.jsx
+│  ├─ loginScreen
+│  │  ├─ CSS
+│  │  │  └─ LoginScreen.css
+│  │  └─ LoginScreen.jsx
+│  ├─ manager
+│  │  └─ PagesManager.js
+│  └─ Pages.jsx
 ├─ services
 │  ├─ config.ts
 │  ├─ requests
 │  │  ├─ config
-│  │  │  └─ requestConfig.ts
+│  │  │  └─ config.ts
 │  │  ├─ helper
 │  │  │  └─ helper.ts
 │  │  └─ requests.ts
 │  └─ webSocket
 │     └─ SocketClient.ts
 ├─ storage
-│  ├─ AppStorage.ts
+│  ├─ AppStorage.js
 │  ├─ AudioStorage.ts
-│  ├─ ImageStorage.ts
-│  ├─ SceneStorage.ts
-│  └─ UIStorage.ts
+│  ├─ ImageStorage.js
+│  └─ SceneStorage.js
 ├─ UI
 │  ├─ bottomBar
+│  │  ├─ balance
+│  │  │  ├─ Balance.jsx
+│  │  │  └─ CSS
+│  │  │     └─ Balance.css
 │  │  ├─ betLabel
-│  │  │  ├─ betLabel
-│  │  │  │  ├─ BetLabel.ts
-│  │  │  │  ├─ buttonDown
-│  │  │  │  │  ├─ ButtonDown.ts
-│  │  │  │  │  ├─ controller
-│  │  │  │  │  │  └─ ButtonDownController.ts
-│  │  │  │  │  └─ view
-│  │  │  │  │     └─ ButtonDownView.ts
-│  │  │  │  ├─ buttonUp
-│  │  │  │  │  ├─ ButtonUp.ts
-│  │  │  │  │  ├─ controller
-│  │  │  │  │  │  └─ ButtonUpController.ts
-│  │  │  │  │  └─ view
-│  │  │  │  │     └─ ButtonUpView.ts
-│  │  │  │  ├─ content
-│  │  │  │  │  ├─ background
-│  │  │  │  │  │  ├─ Background.ts
-│  │  │  │  │  │  ├─ controller
-│  │  │  │  │  │  │  └─ BackgroundController.ts
-│  │  │  │  │  │  └─ view
-│  │  │  │  │  │     └─ BackgroundView.ts
-│  │  │  │  │  ├─ Content.ts
-│  │  │  │  │  ├─ controller
-│  │  │  │  │  │  └─ ContentController.ts
-│  │  │  │  │  ├─ text
-│  │  │  │  │  │  ├─ balance
-│  │  │  │  │  │  │  ├─ Balance.ts
-│  │  │  │  │  │  │  ├─ controller
-│  │  │  │  │  │  │  │  └─ BalanceController.ts
-│  │  │  │  │  │  │  ├─ model
-│  │  │  │  │  │  │  │  └─ BalanceModel.ts
-│  │  │  │  │  │  │  └─ view
-│  │  │  │  │  │  │     └─ BalanceView.ts
-│  │  │  │  │  │  ├─ controller
-│  │  │  │  │  │  │  └─ TextController.ts
-│  │  │  │  │  │  ├─ Text.ts
-│  │  │  │  │  │  ├─ totalBet
-│  │  │  │  │  │  │  ├─ controller
-│  │  │  │  │  │  │  │  └─ TotalBetController.ts
-│  │  │  │  │  │  │  ├─ model
-│  │  │  │  │  │  │  │  └─ TotalBetModel.ts
-│  │  │  │  │  │  │  ├─ TotalBet.ts
-│  │  │  │  │  │  │  └─ view
-│  │  │  │  │  │  │     └─ TotalBetView.ts
-│  │  │  │  │  │  └─ view
-│  │  │  │  │  │     └─ TextView.ts
-│  │  │  │  │  └─ view
-│  │  │  │  │     └─ ContentView.ts
-│  │  │  │  ├─ controller
-│  │  │  │  │  └─ BetLabelController.ts
-│  │  │  │  └─ view
-│  │  │  │     └─ BetLabelView.ts
-│  │  │  ├─ BetLabelContainer.ts
-│  │  │  ├─ config
-│  │  │  ├─ controller
-│  │  │  │  └─ BetLabelContainerController.ts
-│  │  │  ├─ model
-│  │  │  │  └─ BetLabelContainerModel.ts
-│  │  │  └─ view
-│  │  │     └─ BetLabelContainerView.ts
-│  │  ├─ BottomBar.ts
-│  │  ├─ controller
-│  │  │  └─ BottomBarController.ts
-│  │  ├─ spinButton
-│  │  │  ├─ controller
-│  │  │  │  └─ SpinButtonController.ts
-│  │  │  ├─ interface
-│  │  │  ├─ model
-│  │  │  │  └─ SpinButtonModel.ts
-│  │  │  ├─ SpinButton.ts
-│  │  │  └─ view
-│  │  │     └─ SpinButtonView.ts
-│  │  └─ view
-│  │     └─ BottomBarView.ts
-│  ├─ config
-│  │  └─ config.ts
-│  └─ manager
-│     └─ GUIManager.ts
+│  │  │  ├─ BetLabel.jsx
+│  │  │  └─ CSS
+│  │  │     └─ BetLabel.css
+│  │  ├─ BottomBar.jsx
+│  │  ├─ CSS
+│  │  │  └─ BottomBar.css
+│  │  ├─ options
+│  │  │  ├─ CSS
+│  │  │  │  └─ Options.css
+│  │  │  └─ Options.jsx
+│  │  └─ spinButton
+│  │     ├─ CSS
+│  │     │  └─ SpinButton.css
+│  │     └─ SpinButton.jsx
+│  ├─ CSS
+│  │  └─ UI.css
+│  ├─ manager
+│  │  └─ UIManager.js
+│  ├─ middleBar
+│  │  ├─ CSS
+│  │  │  └─ MiddleBar.css
+│  │  └─ MiddleBar.jsx
+│  ├─ topBar
+│  │  ├─ CSS
+│  │  │  └─ TopBar.css
+│  │  └─ TopBar.jsx
+│  └─ UI.jsx
 └─ utility
+   ├─ formatNumber.js
    ├─ math
    │  └─ MathUtils.ts
-   └─ screen
-      └─ ScreenUtils.ts
+   ├─ screen
+   │  ├─ checkIsPortraitOrientation.js
+   │  └─ ScreenUtils.js
+   └─ unformatNumber.js
+
 ```
