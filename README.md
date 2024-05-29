@@ -6,7 +6,8 @@
 # Slot Machine Game
 
 -- CLIETN:-------
-* 𝗣𝗶𝘅𝗶.𝗷𝘀
+* 𝗣𝗶𝘅𝗶.𝗷𝘀 7.4
+* 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 18.2
 * 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
 * 𝗷𝘄𝘁-𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻: registration and login
 * 𝐇𝐨𝐰𝐥𝐞𝐫 for audio
