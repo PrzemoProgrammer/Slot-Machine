@@ -24,7 +24,7 @@
 
 𝐕𝐢𝐝𝐞𝐨
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1-y1geAYyRc/0.jpg)](https://www.youtube.com/watch?v=J_jCSIwpFmQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J_jCSIwpFmQ/0.jpg)](https://www.youtube.com/watch?v=J_jCSIwpFmQ)
 
 
 # CODE STRUCTURE
