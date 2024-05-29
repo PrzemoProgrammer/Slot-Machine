@@ -1,0 +1,59 @@
+{
+	"frames": {
+		"landscape_overlay_bg": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 2340,
+				"h": 1440
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 2340,
+				"h": 1440
+			},
+			"sourceSize": {
+				"w": 2340,
+				"h": 1440
+			}
+		},
+		"portrait_overlay_bg": {
+			"frame": {
+				"x": 2343,
+				"y": 1,
+				"w": 1440,
+				"h": 2340
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1440,
+				"h": 2340
+			},
+			"sourceSize": {
+				"w": 1440,
+				"h": 2340
+			}
+		}
+	},
+	"animations": {
+        "portrait": ["portrait_overlay_bg"],
+		"landscape": ["landscape_overlay_bg"]
+    },
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "background_overlay.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 3784,
+			"h": 2342
+		},
+		"scale": "1"
+	}
+}
