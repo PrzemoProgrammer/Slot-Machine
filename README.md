@@ -3,6 +3,8 @@
 # Live Demo:
 👉 https://przemoprogrammer.github.io/Slot-Machine/
 
+***This project is not fully open source code, I am not allowed to share everything***
+
 # Slot Machine Game
 
 -- CLIETN:-------
