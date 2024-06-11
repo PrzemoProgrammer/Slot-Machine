@@ -1,0 +1,17 @@
+#balance-container {
+    text-align: left;
+}
+
+#balance-container #title{
+    color: rgb(177, 175, 175);
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: -5px;
+}
+
+#balance-container #value{
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+}

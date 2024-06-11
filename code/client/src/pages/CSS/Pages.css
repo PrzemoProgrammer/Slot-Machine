@@ -1,0 +1,15 @@
+#pages {
+    position: fixed;
+    width: 1280px;
+    height: 720px;
+    transform-origin: 0 0 0;
+    pointer-events: all;
+}
+
+#pages-not-active {
+    pointer-events: none;
+    position: fixed;
+    width: 1280px;
+    height: 720px;
+    transform-origin: 0 0 0;
+}

@@ -1,0 +1,20 @@
+#texture-button {
+    display: flex;
+    justify-content: center;  
+    align-items: center;    
+    text-align: center;
+}
+
+#texture-button img {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    pointer-events: all;
+}
+
+#texture-button #enlarged {
+    transform: scale(1.1); 
+}
+
+#texture-button #default {
+    transform: scale(1); 
+}

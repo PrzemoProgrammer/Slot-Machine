@@ -1,0 +1,29 @@
+#UI {
+  position: fixed;
+  width: 1280px;
+  height: 720px;
+  pointer-events: none;
+  transform-origin: 0 0 0;
+  /* transform: scale(1.5); */
+    /* visibility:hidden; */
+    /* transform-origin: 0 0 0;
+    align-content:space-between ;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between; */
+    /* top: 0;
+    left:0 */
+    /* transform: translate(0%, 50%); */
+    /* transform: scale(); */
+    /* width: 100%;
+    height: 100%; */
+    /* top: 60%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: auto;
+    height: auto;
+    max-width: 20%;
+    max-height: 20%;
+    object-fit: cover; */
+  }
+

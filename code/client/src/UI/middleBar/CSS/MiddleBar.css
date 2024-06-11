@@ -1,0 +1,48 @@
+#UI #middle-bar {
+    position: absolute;
+    display: flex;
+    justify-content:end; 
+    /* display: flex;
+    justify-content:space-between; 
+    align-items: center; */
+  transform: translate(0%, -50%);
+    /* transform-origin: 0.5 0.5 0.5; */
+    width: 100%;
+    height: 600px;
+    font-size: 24px;
+    top: 10%;
+    
+  /* position: absolute;
+  display: flex;
+  justify-content:space-around; 
+  width: 100vw;
+  background: rgba(0,0,0,.3); */
+  /* transform: translate(0%, 0%); */
+  /* top: 100vh; */
+  /* bottom: 0; */
+  
+  /* transform-origin: bottom center; */
+  
+  }
+
+  #middle-bar #spin-button {
+    position: absolute;
+    top: 65%;
+    left:79%
+    /* margin-right: 140px; */
+    /* margin-top: 400px; */
+  }
+
+  @media (max-aspect-ratio: 1) {
+    #middle-bar #spin-button img {
+      transform:scale(1.3) !important
+    }
+
+    #middle-bar #spin-button {
+      top: 130%;
+      left:79%
+      /* margin-right: 40px;
+      margin-top: 800px; */
+    }
+
+  }

@@ -1,0 +1,26 @@
+#close-button {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: rgba(255, 255, 255, 0.87);
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 50px;
+    border: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+    &:active {
+
+    }
+
+    &:disabled {
+
+    }
+}

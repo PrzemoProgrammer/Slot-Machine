@@ -1,0 +1,32 @@
+#loading-game {
+    position:fixed;
+    width: 200%;
+    height: 200%;
+    background-color: #1f1e1e;
+    top: -50%;
+    left: -50%;
+  }
+
+#loading-game #logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    width: auto;
+    height: auto;
+    /* max-width: 30%;
+    max-height: 30%; */
+    object-fit: cover;
+  }
+  #loading-game #loading-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: auto;
+    height: auto;
+    /* max-width: 20%;
+    max-height: 20%; */
+    object-fit: cover;
+  }
+  

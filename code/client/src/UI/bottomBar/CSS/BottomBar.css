@@ -1,0 +1,22 @@
+#UI #bottom-bar {
+    position: absolute;
+    display: flex;
+    /* justify-content:flex-start;  */
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  #bottom-bar #separate-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  }
+
+  @media (max-aspect-ratio: 1) {
+    #bottom-bar #separate-container {
+      transform:scale(1.1) !important;
+      /* margin-top: -10px; */
+    }
+  }
